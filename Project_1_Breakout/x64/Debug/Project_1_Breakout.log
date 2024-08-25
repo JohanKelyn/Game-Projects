@@ -1,0 +1,67 @@
+﻿  main.cpp
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(97,16): warning C4244: '=': conversion from 'f32' to 's32', possible loss of data
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(98,17): warning C4244: '=': conversion from 'f32' to 's32', possible loss of data
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(241,63): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(251,63): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(437,68): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\src\main.cpp(452,68): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+solarsystem.obj : error LNK2005: stbi_convert_iphone_png_to_rgb already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_failure_reason already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_hdr_to_ldr_gamma already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_hdr_to_ldr_scale already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_image_free already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_info already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_info_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_info_from_file already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_info_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_16_bit already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_16_bit_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_16_bit_from_file already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_16_bit_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_hdr already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_hdr_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_hdr_from_file already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_is_hdr_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_ldr_to_hdr_gamma already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_ldr_to_hdr_scale already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_16 already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_16_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_16_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_from_file already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_from_file_16 already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_load_gif_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_loadf already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_loadf_from_callbacks already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_loadf_from_file already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_loadf_from_memory already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_set_flip_vertically_on_load already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_set_flip_vertically_on_load_thread already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_set_unpremultiply_on_load already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_buffer already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_malloc already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_malloc_guesssize already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_malloc_guesssize_headerflag already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_noheader_buffer already defined in main.obj
+solarsystem.obj : error LNK2005: stbi_zlib_decode_noheader_malloc already defined in main.obj
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+main.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::Begin(char const *,bool *,int)" (?Begin@ImGui@@YA_NPEBDPEA_NH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::End(void)" (?End@ImGui@@YAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::Text(char const *,...)" (?Text@ImGui@@YAXPEBDZZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::Button(char const *,struct ImVec2 const &)" (?Button@ImGui@@YA_NPEBDAEBUImVec2@@@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::Checkbox(char const *,bool *)" (?Checkbox@ImGui@@YA_NPEBDPEA_N@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::SliderFloat(char const *,float *,float,float,char const *,int)" (?SliderFloat@ImGui@@YA_NPEBDPEAMMM0H@Z) referenced in function main
+solarsystem.obj : error LNK2019: unresolved external symbol "struct ImGuiContext * __cdecl ImGui::CreateContext(struct ImFontAtlas *)" (?CreateContext@ImGui@@YAPEAUImGuiContext@@PEAUImFontAtlas@@@Z) referenced in function "void __cdecl imgui_init(struct GLFWwindow *)" (?imgui_init@@YAXPEAUGLFWwindow@@@Z)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::NewFrame(void)" (?NewFrame@ImGui@@YAXXZ) referenced in function "void __cdecl imgui_newframe(void)" (?imgui_newframe@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::EndFrame(void)" (?EndFrame@ImGui@@YAXXZ) referenced in function "void __cdecl imgui_render(void)" (?imgui_render@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::Render(void)" (?Render@ImGui@@YAXXZ) referenced in function "void __cdecl imgui_render(void)" (?imgui_render@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "struct ImDrawData * __cdecl ImGui::GetDrawData(void)" (?GetDrawData@ImGui@@YAPEAUImDrawData@@XZ) referenced in function "void __cdecl imgui_render(void)" (?imgui_render@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::StyleColorsDark(struct ImGuiStyle *)" (?StyleColorsDark@ImGui@@YAXPEAUImGuiStyle@@@Z) referenced in function "void __cdecl imgui_init(struct GLFWwindow *)" (?imgui_init@@YAXPEAUGLFWwindow@@@Z)
+solarsystem.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui_ImplGlfw_InitForOpenGL(struct GLFWwindow *,bool)" (?ImGui_ImplGlfw_InitForOpenGL@@YA_NPEAUGLFWwindow@@_N@Z) referenced in function "void __cdecl imgui_init(struct GLFWwindow *)" (?imgui_init@@YAXPEAUGLFWwindow@@@Z)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui_ImplGlfw_NewFrame(void)" (?ImGui_ImplGlfw_NewFrame@@YAXXZ) referenced in function "void __cdecl imgui_newframe(void)" (?imgui_newframe@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui_ImplOpenGL3_Init(char const *)" (?ImGui_ImplOpenGL3_Init@@YA_NPEBD@Z) referenced in function "void __cdecl imgui_init(struct GLFWwindow *)" (?imgui_init@@YAXPEAUGLFWwindow@@@Z)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui_ImplOpenGL3_NewFrame(void)" (?ImGui_ImplOpenGL3_NewFrame@@YAXXZ) referenced in function "void __cdecl imgui_newframe(void)" (?imgui_newframe@@YAXXZ)
+solarsystem.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui_ImplOpenGL3_RenderDrawData(struct ImDrawData *)" (?ImGui_ImplOpenGL3_RenderDrawData@@YAXPEAUImDrawData@@@Z) referenced in function "void __cdecl imgui_render(void)" (?imgui_render@@YAXXZ)
+C:\Users\Johan\OneDrive\Documentos\GitHub\Game-Projects\Project_1_Breakout\x64\Debug\Project_1_Breakout.exe : fatal error LNK1120: 17 unresolved externals
